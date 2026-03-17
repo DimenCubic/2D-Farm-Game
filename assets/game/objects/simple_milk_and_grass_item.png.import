@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2l4p825odua6"
-path="res://.godot/imported/wooden_house_roof_tilset.png-35c69369dbaa5c2ea84c0b088b18b703.ctex"
+uid="uid://bawt5wkleowd"
+path="res://.godot/imported/simple_milk_and_grass_item.png-6c8acd66911415b3554ea8fed1b5c430.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/wooden_house_roof_tilset.png"
-dest_files=["res://.godot/imported/wooden_house_roof_tilset.png-35c69369dbaa5c2ea84c0b088b18b703.ctex"]
+source_file="res://assets/game/objects/simple_milk_and_grass_item.png"
+dest_files=["res://.godot/imported/simple_milk_and_grass_item.png-6c8acd66911415b3554ea8fed1b5c430.ctex"]
 
 [params]
 

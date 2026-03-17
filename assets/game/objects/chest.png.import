@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ca5jdgj4xmmej"
-path="res://.godot/imported/paths.png-3b8321bca8f71bedcbec664535a93fe5.ctex"
+uid="uid://b0ir02y2c5did"
+path="res://.godot/imported/chest.png-eb02efd46038b63b2f9b86969e8976a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/objects/paths.png"
-dest_files=["res://.godot/imported/paths.png-3b8321bca8f71bedcbec664535a93fe5.ctex"]
+source_file="res://assets/game/objects/chest.png"
+dest_files=["res://.godot/imported/chest.png-eb02efd46038b63b2f9b86969e8976a6.ctex"]
 
 [params]
 

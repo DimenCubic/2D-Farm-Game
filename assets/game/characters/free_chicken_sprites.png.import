@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnf232qydne4o"
-path="res://.godot/imported/egg_and_nest.png-b57a88199afe966c7a18c1612d3bead2.ctex"
+uid="uid://b7cisxxrm11ge"
+path="res://.godot/imported/free_chicken_sprites.png-3412dd2f42c15e3f17baad1a01274ce2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/characters/egg_and_nest.png"
-dest_files=["res://.godot/imported/egg_and_nest.png-b57a88199afe966c7a18c1612d3bead2.ctex"]
+source_file="res://assets/game/characters/free_chicken_sprites.png"
+dest_files=["res://.godot/imported/free_chicken_sprites.png-3412dd2f42c15e3f17baad1a01274ce2.ctex"]
 
 [params]
 

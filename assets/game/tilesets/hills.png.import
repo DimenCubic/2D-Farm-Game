@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cmikm0mlvw2t4"
-path="res://.godot/imported/free_chicken_house.png-606e18873fe84e7abd67a40db21e122f.ctex"
+uid="uid://yvxky4wpm25c"
+path="res://.godot/imported/hills.png-45df3828861664a938e4515251230ef0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/objects/free_chicken_house.png"
-dest_files=["res://.godot/imported/free_chicken_house.png-606e18873fe84e7abd67a40db21e122f.ctex"]
+source_file="res://assets/game/tilesets/hills.png"
+dest_files=["res://.godot/imported/hills.png-45df3828861664a938e4515251230ef0.ctex"]
 
 [params]
 

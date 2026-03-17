@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://yivtkq486dga"
-path="res://.godot/imported/wood_bridge.png-90c8157a1c7374fd4ae9a888b57895d0.ctex"
+uid="uid://csfsdd4j2lfkq"
+path="res://.godot/imported/grass.png-3023c609360f494831bbc9b6310ebcff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/objects/wood_bridge.png"
-dest_files=["res://.godot/imported/wood_bridge.png-90c8157a1c7374fd4ae9a888b57895d0.ctex"]
+source_file="res://assets/game/tilesets/grass.png"
+dest_files=["res://.godot/imported/grass.png-3023c609360f494831bbc9b6310ebcff.ctex"]
 
 [params]
 

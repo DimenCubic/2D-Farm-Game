@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://yvxky4wpm25c"
-path="res://.godot/imported/hills.png-6d72e108bda35783a1fc4dac89d2f498.ctex"
+uid="uid://c1pf8ugov655q"
+path="res://.godot/imported/basic_furniture.png-7376c5c08c1741e4faa746b418e81538.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/hills.png"
-dest_files=["res://.godot/imported/hills.png-6d72e108bda35783a1fc4dac89d2f498.ctex"]
+source_file="res://assets/game/objects/basic_furniture.png"
+dest_files=["res://.godot/imported/basic_furniture.png-7376c5c08c1741e4faa746b418e81538.ctex"]
 
 [params]
 

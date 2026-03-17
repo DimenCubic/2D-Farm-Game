@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dc0bxo8h2akkc"
-path="res://.godot/imported/fences.png-141a898590fa714cf80b13afef56e3f7.ctex"
+uid="uid://b2l4p825odua6"
+path="res://.godot/imported/wooden_house_roof_tilset.png-664f5ed3a12cdc883fe18ac2b6e6bd1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/fences.png"
-dest_files=["res://.godot/imported/fences.png-141a898590fa714cf80b13afef56e3f7.ctex"]
+source_file="res://assets/game/tilesets/wooden_house_roof_tilset.png"
+dest_files=["res://.godot/imported/wooden_house_roof_tilset.png-664f5ed3a12cdc883fe18ac2b6e6bd1c.ctex"]
 
 [params]
 
