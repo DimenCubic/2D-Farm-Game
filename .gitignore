@@ -1,0 +1,16 @@
+# Godot 4+
+.godot/
+
+# Imported assets
+.import/
+
+# Android build
+/android/
+
+# Export files
+export.cfg
+export_credentials.cfg
+
+# Mono / C#
+bin/
+obj/
